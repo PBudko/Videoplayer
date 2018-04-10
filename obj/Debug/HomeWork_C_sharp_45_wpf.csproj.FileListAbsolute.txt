@@ -1,0 +1,15 @@
+c:\users\admin\documents\visual studio 2015\Projects\HomeWork_C_sharp_45_wpf\HomeWork_C_sharp_45_wpf\bin\Debug\HomeWork_C_sharp_45_wpf.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\HomeWork_C_sharp_45_wpf\HomeWork_C_sharp_45_wpf\bin\Debug\HomeWork_C_sharp_45_wpf.exe
+c:\users\admin\documents\visual studio 2015\Projects\HomeWork_C_sharp_45_wpf\HomeWork_C_sharp_45_wpf\bin\Debug\HomeWork_C_sharp_45_wpf.pdb
+c:\users\admin\documents\visual studio 2015\Projects\HomeWork_C_sharp_45_wpf\HomeWork_C_sharp_45_wpf\obj\Debug\App.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\HomeWork_C_sharp_45_wpf\HomeWork_C_sharp_45_wpf\obj\Debug\HomeWork_C_sharp_45_wpf_MarkupCompile.cache
+c:\users\admin\documents\visual studio 2015\Projects\HomeWork_C_sharp_45_wpf\HomeWork_C_sharp_45_wpf\obj\Debug\HomeWork_C_sharp_45_wpf_MarkupCompile.lref
+c:\users\admin\documents\visual studio 2015\Projects\HomeWork_C_sharp_45_wpf\HomeWork_C_sharp_45_wpf\obj\Debug\HomeWork_C_sharp_45_wpf.g.resources
+c:\users\admin\documents\visual studio 2015\Projects\HomeWork_C_sharp_45_wpf\HomeWork_C_sharp_45_wpf\obj\Debug\HomeWork_C_sharp_45_wpf.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\HomeWork_C_sharp_45_wpf\HomeWork_C_sharp_45_wpf\obj\Debug\HomeWork_C_sharp_45_wpf.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\HomeWork_C_sharp_45_wpf\HomeWork_C_sharp_45_wpf\obj\Debug\HomeWork_C_sharp_45_wpf.exe
+c:\users\admin\documents\visual studio 2015\Projects\HomeWork_C_sharp_45_wpf\HomeWork_C_sharp_45_wpf\obj\Debug\HomeWork_C_sharp_45_wpf.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\HomeWork_C_sharp_45_wpf\HomeWork_C_sharp_45_wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\documents\visual studio 2015\Projects\HomeWork_C_sharp_45_wpf\HomeWork_C_sharp_45_wpf\obj\Debug\View\MainWindow.g.cs
+C:\Users\Admin\documents\visual studio 2015\Projects\HomeWork_C_sharp_45_wpf\HomeWork_C_sharp_45_wpf\obj\Debug\View\MainWindow.baml
+C:\Users\Admin\documents\visual studio 2015\Projects\HomeWork_C_sharp_45_wpf\HomeWork_C_sharp_45_wpf\obj\Debug\HomeWork_C_sharp_45_wpf.csprojResolveAssemblyReference.cache
